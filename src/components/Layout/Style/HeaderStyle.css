@@ -1,0 +1,26 @@
+.navigation-menu{
+    list-style: none; 
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color:'blue';
+}
+
+.navigation-menu li{
+    margin: 0px 20px;
+    
+}
+
+.navigation-menu li a{
+    text-align: none;
+    color: white; 
+    float: right;
+  justify-self: flex-end;
+ }
+
+.links a {
+    text-decoration: none;
+    color:aliceblue;
+    text-transform :capitalize;
+}
+
